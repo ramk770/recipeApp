@@ -1,0 +1,98 @@
+[
+  { 
+      "recipeId": "3445",
+      "title": "Chicken Curry",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Curry-recipe-750x750.jpg",
+      "rating": 4.5,
+      "descrip": "A classic Indian chicken curry dish with aromatic spices.",
+      "ingredients": [
+          "Chicken",
+          "Onion",
+          "Tomatoes",
+          "Ginger",
+          "Garlic",
+          "Spices (such as turmeric, cumin, coriander)"
+      ],
+      "instructions": [
+          "Heat oil in a pan, sauté onions until golden brown.",
+          "Add ginger and garlic, cook until fragrant.",
+          "Add tomatoes and cook until soft.",
+          "Add spices and cook until aromatic.",
+          "Add chicken pieces, coat well with spices, and cook until browned.",
+          "Add water, cover, and simmer until chicken is cooked through.",
+          "Garnish with cilantro and serve hot with rice or naan."
+      ],
+      "cookingTime": "45 minutes"
+  },
+
+  {   
+    "recipeId": "22344",
+      "title": "Vegetable Stir-Fry",
+      "image": "https://feastwithsafiya.com/wp-content/uploads/2022/03/chicken-curry-recipe-720x960.jpg",
+      "rating": 4.2,
+      "descrip": "A colorful and nutritious stir-fry with assorted vegetables.",
+      "ingredients": [
+          "Assorted vegetables (bell peppers, broccoli, carrots, snap peas, etc.)",
+          "Garlic",
+          "Ginger",
+          "Soy sauce",
+          "Sesame oil",
+          "Cooking oil"
+      ],
+      "instructions": [
+          "Heat oil in a wok or skillet over high heat.",
+          "Add garlic and ginger, cook until fragrant.",
+          "Add vegetables, stir-fry until tender-crisp.",
+          "Add soy sauce and sesame oil, toss to coat.",
+          "Serve hot as a side dish or over rice."
+      ],
+      "cookingTime": "20 minutes"
+  },
+  {    "recipeId": "3343",
+      "title": "Spaghetti Carbonara",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.8,
+      "descrip": "A classic Italian pasta dish with eggs, cheese, pancetta, and black pepper.",
+      "ingredients": [
+          "Spaghetti",
+          "Eggs",
+          "Pancetta",
+          "Parmesan cheese",
+          "Black pepper"
+      ],
+      "instructions": [
+          "Cook spaghetti according to package instructions.",
+          "In a bowl, whisk together eggs, grated Parmesan cheese, and black pepper.",
+          "In a skillet, cook diced pancetta until crispy.",
+          "Drain cooked spaghetti and add to skillet with pancetta.",
+          "Remove skillet from heat and quickly stir in egg mixture, allowing the residual heat to cook the eggs without scrambling.",
+          "Serve immediately, garnished with additional grated Parmesan cheese and black pepper."
+      ],
+      "cookingTime": "30 minutes"
+  },
+  {    "recipeId": "4343",
+      "title": "Veggie Pizza",
+      "image": "https://www.cremeux.in/wp-content/uploads/2023/07/tomato-fresh-veggie-600x600.jpeg",
+      "rating": 4.6,
+      "descrip": "A homemade vegetarian pizza topped with assorted vegetables and cheese.",
+      "ingredients": [
+          "Pizza dough",
+          "Pizza sauce",
+          "Mozzarella cheese",
+          "Assorted vegetables (bell peppers, onions, mushrooms, olives, etc.)",
+          "Olive oil",
+          "Italian seasoning"
+      ],
+      "instructions": [
+          "Preheat oven to 425°F (220°C).",
+          "Roll out pizza dough on a baking sheet or pizza stone.",
+          "Spread pizza sauce evenly over dough.",
+          "Sprinkle mozzarella cheese over sauce.",
+          "Arrange sliced vegetables on top of cheese.",
+          "Drizzle with olive oil and sprinkle with Italian seasoning.",
+          "Bake in preheated oven for 15-20 minutes or until crust is golden brown and cheese is bubbly.",
+          "Slice and serve hot."
+      ],
+      "cookingTime": "25 minutes"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  
+  {
+    "recipeId": 2,
+    "title": "Palak Paneer",
+    "image": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
+    "description": "A creamy spinach curry with Indian cottage cheese (paneer) cooked in aromatic spices.",
+    "rating": 4.6,
+    "reviews": "",
+    "ingredients": [
+      "Spinach",
+      "Paneer (Indian Cottage Cheese)",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Green Chilies",
+      "Ground Spices (such as turmeric, cumin, coriander, garam masala)",
+      "Cream or Cashew Paste",
+      "Ghee or Oil"
+    ],
+    "instructions": [
+      "Blanch spinach leaves in boiling water for 2 minutes. Drain, cool, and blend into a smooth puree.",
+      "Heat ghee or oil in a pan, sauté onions until golden brown.",
+      "Add ginger, garlic, and green chilies, cook until fragrant.",
+      "Add tomatoes and cook until soft.",
+      "Add ground spices and sauté for a minute.",
+      "Add spinach puree and cook for 5-7 minutes.",
+      "Add paneer cubes and cream or cashew paste, simmer for another 2-3 minutes.",
+      "Garnish with cream or chopped cilantro, and serve hot with naan or rice."
+    ]
+  },
+  {
+    "recipeId": 3,
+    "title": "Chana Masala",
+    "image": "https://www.indianveggiedelight.com/wp-content/uploads/2019/05/chana-masala-recipe-featured.jpg",
+    "description": "A spicy and tangy chickpea curry cooked with onions, tomatoes, and aromatic spices.",
+    "rating": 4.7,
+    "reviews": "",
+    "ingredients": [
+      "Chickpeas (Garbanzo Beans)",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Green Chilies",
+      "Ground Spices (such as turmeric, cumin, coriander, garam masala)",
+      "Tamarind Paste or Amchur (Dried Mango Powder)",
+      "Fresh Cilantro",
+      "Ghee or Oil"
+    ],
+    "instructions": [
+      "Soak chickpeas overnight or use canned chickpeas.",
+      "Heat ghee or oil in a pan, sauté onions until golden brown.",
+      "Add ginger, garlic, and green chilies, cook until fragrant.",
+      "Add tomatoes and cook until soft.",
+      "Add ground spices and sauté for a minute.",
+      "Add chickpeas, tamarind paste or amchur, and water, bring to a boil.",
+      "Simmer for 15-20 minutes until chickpeas are tender and the curry thickens.",
+      "Garnish with chopped cilantro, and serve hot with rice or naan."
+    ]
+  },
+  {
+    "recipeId": 4,
+    "title": "Aloo Gobi",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN5_ofx6AZswZDb7hQKlYvw7njWxPqRcfh-g&usqp=CAU",
+    "description": "A classic North Indian dish made with potatoes and cauliflower cooked with spices.",
+    "rating": 4.5,
+    "reviews": "",
+    "ingredients": [
+      "Potatoes",
+      "Cauliflower",
+      "Onion",
+      "Tomato",
+      "Ginger",
+      "Garlic",
+      "Green Chilies",
+      "Ground Spices (such as turmeric, cumin, coriander, garam masala)",
+      "Fresh Cilantro",
+      "Ghee or Oil"
+    ],
+    "instructions": [
+      "Cut potatoes and cauliflower into bite-sized florets.",
+      "Heat ghee or oil in a pan, sauté onions until golden brown.",
+      "Add ginger, garlic, and green chilies, cook until fragrant.",
+      "Add tomatoes and cook until soft.",
+      "Add ground spices and sauté for a minute.",
+      "Add potatoes and cauliflower, toss well to coat with spices.",
+      "Cover and cook on low heat until vegetables are tender, stirring occasionally.",
+      "Garnish with chopped cilantro, and serve hot with roti or rice."
+    ]
+  }
+]

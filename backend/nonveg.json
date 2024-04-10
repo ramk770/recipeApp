@@ -1,0 +1,46 @@
+[
+    {
+        "recipeId": "1",
+        "title": "Spicy Chicken Curry",
+        "image": "https://example.com/images/spicy_chicken_curry.jpg",
+        "rating": 4.5,
+        "discrip": "A delicious and spicy chicken curry recipe.",
+        "reviews": "Great recipe! Loved it.",
+        "ingredients": ["1 kg chicken", "2 onions", "3 tomatoes", "Spices"],
+        "instructions": ["Step 1: Marinate chicken with spices.", "Step 2: Cook onions and tomatoes.", "Step 3: Add chicken and cook until done."],
+        "cookingTime": "1 hour"
+    },
+    {
+        "recipeId": "2",
+        "title": "Grilled Steak",
+        "image": "https://example.com/images/grilled_steak.jpg",
+        "rating": 4.8,
+        "discrip": "A juicy and flavorful grilled steak recipe.",
+        "reviews": "Best steak ever!",
+        "ingredients": ["500g steak", "Salt", "Pepper", "Olive oil"],
+        "instructions": ["Step 1: Season steak with salt and pepper.", "Step 2: Grill to desired doneness."],
+        "cookingTime": "30 minutes"
+    },
+    {
+        "recipeId": "3",
+        "title": "Spicy Lamb Curry",
+        "image": "https://example.com/images/spicy_lamb_curry.jpg",
+        "rating": 4.3,
+        "discrip": "A flavorful and aromatic lamb curry recipe.",
+        "reviews": "Delicious! Perfect blend of spices.",
+        "ingredients": ["1 kg lamb", "2 onions", "4 garlic cloves", "Spices"],
+        "instructions": ["Step 1: Cook onions and garlic.", "Step 2: Add lamb and spices.", "Step 3: Simmer until lamb is tender."],
+        "cookingTime": "1.5 hours"
+    },
+    {
+        "recipeId": "4",
+        "title": "Honey Glazed Salmon",
+        "image": "https://example.com/images/honey_glazed_salmon.jpg",
+        "rating": 4.7,
+        "discrip": "A sweet and savory salmon dish with a honey glaze.",
+        "reviews": "Amazing! The glaze is perfect.",
+        "ingredients": ["4 salmon fillets", "Honey", "Soy sauce", "Garlic"],
+        "instructions": ["Step 1: Mix honey, soy sauce, and garlic.", "Step 2: Coat salmon with glaze.", "Step 3: Bake until cooked through."],
+        "cookingTime": "20 minutes"
+    }
+]
